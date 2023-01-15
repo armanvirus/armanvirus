@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arman Grema</h1>
 <h3 align="center">A passionate Fullstack developer from Nigeria</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=armanvirus&label=Profile%20views&color=0e75b6&style=flat" alt="armanvirus" /> </p>
+<p align="left"> <img src="https://i.pinimg.com/236x/da/40/4b/da404bf7bd4398c9f256c65507d3c860.jpg" alt="armanvirus" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=armanvirus" alt="armanvirus" /></a> </p>
 
