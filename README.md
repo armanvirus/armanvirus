@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Arman Grema</h1>
 <h3 align="center">A passionate Fullstack developer from Nigeria</h3>
 
-<p align="left"> <img src="https://i.pinimg.com/236x/da/40/4b/da404bf7bd4398c9f256c65507d3c860.jpg" alt="armanvirus" /> </p>
+<p align="left"> <img style="height:60vh; width: 100%; object-fit: cover;" src="https://i.pinimg.com/236x/da/40/4b/da404bf7bd4398c9f256c65507d3c860.jpg" alt="armanvirus" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
-	<img src="https://i.pinimg.com/236x/ef/44/a0/ef44a0546bd07a0066173b5ac5abfc21.jpg" alt="armanvirus" /></a> </p>
+	<img src="https://i.pinimg.com/236x/fc/66/fd/fc66fd8a2d3e4bc8c72f4cadb7bf3b62.jpg" alt="armanvirus" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/armanviruse" target="blank"><img src="https://img.shields.io/twitter/follow/armanviruse?logo=twitter&style=for-the-badge" alt="armanviruse" /></a> </p>
 
