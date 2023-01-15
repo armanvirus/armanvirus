@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://i.pinimg.com/236x/da/40/4b/da404bf7bd4398c9f256c65507d3c860.jpg" alt="armanvirus" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=armanvirus" alt="armanvirus" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
+	<img src="https://i.pinimg.com/236x/ef/44/a0/ef44a0546bd07a0066173b5ac5abfc21.jpg" alt="armanvirus" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/armanviruse" target="blank"><img src="https://img.shields.io/twitter/follow/armanviruse?logo=twitter&style=for-the-badge" alt="armanviruse" /></a> </p>
 
