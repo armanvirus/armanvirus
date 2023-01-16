@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arman Grema</h1>
 <h3 align="center">A passionate Fullstack developer from Nigeria</h3>
 
-<p align="left"> <img style="height:60vh; width: 100%; object-fit: contain;" src="https://i.pinimg.com/236x/da/40/4b/da404bf7bd4398c9f256c65507d3c860.jpg" alt="armanvirus" /> </p>
+<p align="left"> <img  src="https://i.pinimg.com/236x/da/40/4b/da404bf7bd4398c9f256c65507d3c860.jpg" alt="armanvirus" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
 	<img src="https://i.pinimg.com/236x/fc/66/fd/fc66fd8a2d3e4bc8c72f4cadb7bf3b62.jpg" alt="armanvirus" /></a> </p>
@@ -40,5 +40,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=armanvirus&show_icons=true&locale=en" alt="armanvirus" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=armanvirus&" alt="armanvirus" /></p>
-
-
