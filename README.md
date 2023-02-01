@@ -38,5 +38,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=armanvirus&show_icons=true&locale=en&layout=compact" alt="armanvirus" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=armanvirus&show_icons=true&locale=en" alt="armanvirus" /></p>
-
+[![An image of @armanvirus's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/armanvirus)](https://holopin.io/@armanvirus)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=armanvirus&" alt="armanvirus" /></p>
+
